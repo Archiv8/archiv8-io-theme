@@ -1,0 +1,33 @@
+{
+  "plugins": [
+    "plugins/escapeHtml",
+    "plugins/eventDumper",
+    "plugins/markdown",
+    "plugins/overloadHelper",
+    "plugins/partial",
+    "plugins/sourcetag",
+    "plugins/summarize.js"
+  ],
+  "recurseDepth": 10,
+  "source": {
+    "include": ["index.js"],
+    "exclude": ["docs"],
+    "includePattern": ".+\\.js(doc|x)?$",
+    "excludePattern": "(^|\\/|\\\\)_"
+  },
+  "sourceType": "module",
+  "opts": {
+    "template": "templates/default",  // same as -t templates/default
+    "encoding": "utf8",               // same as -e utf8
+    "destination": "./docs/",          // same as -d ./out/
+    "recurse": true                  // same as -r
+  },
+  "tags": {
+    "allowUnknownTags": true,
+    "dictionaries": ["jsdoc", "closure"]
+  },
+  "templates": {
+    "cleverLinks": false,
+    "monospaceLinks": false
+  }
+}
