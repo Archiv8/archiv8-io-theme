@@ -31,7 +31,10 @@ All notable changes to the project are documented in this file using rules based
 
 | Commit  | Date       | Title / Overview                                      |
 | ------- | ---------- | ----------------------------------------------------- |
-| 0b8c936 | 2020-03-16 | :wrench: TOOL: Include new remark-lint settings       |
+| ffd2151 | 2020-03-17 | :memo: DOC(style): Match documentation format across org |
+| bba83ec | 2020-03-17 | :wrench: DOC(spell): Update word list                 |
+| a441b7a | 2020-03-16 | :wrench: TOOL: Update spelling list                   |
+| 2da00ce | 2020-03-16 | :wrench: TOOL: Include new remark-lint settings       |
 
 ### :tada: &#91;0.0.1&#93; - 2020-02-06
 
