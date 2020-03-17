@@ -10,23 +10,7 @@ _Exploring and Sharing Custom [Arch Linux][arch-url] PKGBUILDs_
 
 ---
 
-## License
-
-The copyright holder reserves the right to update or change the licensing for the contents of this repository as required.
-
-### Code
-
-Original code produced for [Archiv8][a8-url] is released under the [MIT](_MIT.md_) license.
-
-_**Licensing and copyright for upstream code, including the software to be packaged and packaging tools used in the creation of this package, remains as designated by their author and contributors.**_
-
-### Documentation
-
-[![Creative Commons License][cc-image]][cc-terms-url] Documentation is licensed using the [_Creative Commons Attribution-ShareAlike 4.0 International License_](CC-BY-SA-V4.md)
-
-## Attribution
-
-Should there be an error or confusion in the attribution of: upstream sources or external documentation please create an issue for [this repository][a8-repo-issue-url].  A correction will be made as soon as possible.
+## Options
 
 ---
 
@@ -51,12 +35,9 @@ For information on licensing see [LICENSE.md](LICENSE.md)
 [mit-badge]: https://img.shields.io/badge/License-MIT-informational.svg
 [semver-badge]: https://img.shields.io/badge/Semantic%20Versioning-2.0.0-informational.svg
 
-[cc-image]: https://i.creativecommons.org/l/by-sa/4.0/80x15.png
-
 [arch-url]: https://www.archlinux.org/
 [a8-url]: https://archiv8.github.io/
 [a8-contrib-url]: https://github.com/Archiv8/archiv8-io-theme/people
-[a8-repo-issue-url]: https://github.com/Archiv8/archiv8-io-theme/issues
 [cc-terms-url]: http://creativecommons.org/licenses/by-sa/4.0/
 [change-url]: https://keepachangelog.com
 [commits-url]: https://conventionalcommits.org
