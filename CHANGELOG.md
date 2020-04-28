@@ -12,7 +12,7 @@ _Exploring and Sharing Custom [Arch Linux][arch-url] PKGBUILDs_
 
 ## Changelog
 
-All notable changes to the project are documented in this file using rules based on advice given in the document [Keep a Changelog](https://keepachangelog.com/en/1.0.0/) and[Semantic Versioning](https://semver.org/spec/v2.0.0.html) for release numbering
+All notable changes to the project are documented in this file using rules based on advice given in the document [Keep a Changelog](https://keepachangelog.com/en/1.0.0/) and [Semantic Versioning](https://semver.org/spec/v2.0.0.html) for release numbering
 
 ### Unreleased
 
