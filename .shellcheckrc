@@ -1,5 +1,0 @@
-# Rules for ShellCheck, https://www.shellcheck.net/, when checking PKGBUILD
-# ============================================================================
-
-# Set shell to bash
-shell=bash
