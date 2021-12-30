@@ -16,7 +16,7 @@ The copyright holder reserves the right to update or change the licensing for th
 
 ### Code
 
-Original code produced for [Archiv8][a8-url] is released under the [MIT](_MIT.md_) license.
+Original code produced for [Archiv8][a8-url] is released under the [MIT](_MIT.md_) license unless otherwise stated.
 
 _**Licensing and copyright for upstream code, including the software to be packaged and packaging tools used in the creation of this package, remains as designated by their author and contributors.**_
 
